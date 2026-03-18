@@ -1,51 +1,67 @@
 # Joomla Header Search Pro
 
-A modern and lightweight header search module for Joomla 6.
+A premium header search module for Joomla 6.
 
 ## Overview
 
-**Joomla Header Search Pro** is a clean and user-friendly search module designed for Joomla 6 websites.  
-It adds a stylish header search trigger and popup search interface to improve usability and help visitors find content faster.
+**Joomla Header Search Pro** is a modern and lightweight search module designed for Joomla 6 websites.
 
-This extension is built for developers, agencies, and site owners who want a simple but professional search experience in the header area.
+It adds a clean search trigger and popup-style search interface, helping visitors quickly access search from anywhere on the site.
 
-## Features
+This extension is built for developers, agencies, and site owners who want a professional search experience with a minimal and template-friendly design.
 
-- Clean header search trigger for modern Joomla templates
-- Popup-style search interface
-- Lightweight and template-friendly output
-- Easy module setup and configuration
-- Joomla 6 ready structure
-- Professional and minimal front-end behavior
+## Key Features
+
+- Modern search trigger
+- Popup search interface
+- Clean and lightweight frontend output
+- Easy module configuration
+- Template-friendly structure
+- Joomla 6 ready
+- Professional UI for modern websites
 
 ## Requirements
 
 - Joomla 6.x
+- PHP version supported by your Joomla 6 installation
 - A Joomla-compatible hosting environment
 
 ## Installation
 
-1. Download the latest package from the releases section.
+1. Download the latest release package.
 2. Log in to your Joomla Administrator panel.
 3. Go to **System → Install → Extensions**.
 4. Upload the module ZIP package.
 5. Install the extension.
 6. Go to **Content → Site Modules**.
 7. Find and publish **Header Search Pro**.
-8. Assign the module to your preferred template position.
-9. Configure module options as needed.
+8. Assign the module as needed.
+9. Configure the module options and save.
 
 ## Usage
 
 After installation and publishing:
 
-- Place the module in your header or topbar position
-- Configure the module settings from the Joomla Administrator panel
-- Save and test the search trigger on the frontend
+- Publish the module in the `debug` position
+- Make sure your template supports rendering the `debug` module position
+- Configure the display and behavior from the module settings
+- Test the search trigger on the frontend
+- Adjust styling if needed based on your template layout
+
+## Commercial Information
+
+Joomla Header Search Pro is a **commercial Joomla extension** distributed under the **GNU General Public License version 2 (GPL v2)**.
+
+Your purchase gives you access to:
+
+- Product download
+- Updates during your active support period
+- Technical support
+- Documentation and usage assistance
 
 ## Support
 
-If you need help with installation, customization, or support, please contact us:
+For installation help, customization, or technical support:
 
 - **Author:** JoomTheme
 - **Website:** https://joomtheme.com
@@ -63,7 +79,9 @@ If you find a bug or want to request an improvement, please open an issue in thi
 
 ## License
 
-This project is licensed under the **GNU General Public License v2.0**.
+This project is licensed under the **GNU General Public License version 2 (GPL v2)**.
+
+See the `LICENSE` file included in this repository for the full license text.
 
 ## Author
 
