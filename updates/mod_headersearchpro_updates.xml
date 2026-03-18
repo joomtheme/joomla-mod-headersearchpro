@@ -1,1 +1,19 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <name>Header Search Popup Pro</name>
+    <description>Advanced Joomla search popup module</description>
+    <element>mod_headersearchpro</element>
+    <type>module</type>
+    <client>site</client>
+    <version>1.1.7</version>
+    <infourl title="Header Search Popup Pro">https://github.com/joomtheme/joomla-mod-headersearchpro</infourl>
+    <downloads>
+      <downloadurl type="full" format="zip">https://github.com/joomtheme/joomla-mod-headersearchpro/releases/download/1.1.7/mod_headersearchpro_1.1.7_pro_jed_ready.zip</downloadurl>
+    </downloads>
+    <maintainer>JoomTheme</maintainer>
+    <maintainerurl>https://joomtheme.com/</maintainerurl>
+    <targetplatform name="joomla" version="6"/>
+    <php_minimum>8.1</php_minimum>
+  </update>
+</updates>
